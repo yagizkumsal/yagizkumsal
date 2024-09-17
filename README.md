@@ -1,13 +1,6 @@
 Write-Host "";
 Write-Host ""; 
-Write-Host -ForegroundColor Red "$$\     $$\  $$$$$$\   $$$$$$\  $$$$$$\$$$$$$$$\       $$\   $$\ $$\   $$\ $$\      $$\  $$$$$$\   $$$$$$\  $$\       ";
-Write-Host -ForegroundColor Red "\$$\   $$  |$$  __$$\ $$  __$$\ \_$$  _\____$$  |      $$ | $$  |$$ |  $$ |$$$\    $$$ |$$  __$$\ $$  __$$\ $$ |      ";
-Write-Host -ForegroundColor Red " \$$\ $$  / $$ /  $$ |$$ /  \__|  $$ |     $$  /       $$ |$$  / $$ |  $$ |$$$$\  $$$$ |$$ /  \__|$$ /  $$ |$$ |      ";
-Write-Host -ForegroundColor Red "  \$$$$  /  $$$$$$$$ |$$ |$$$$\   $$ |    $$  /        $$$$$  /  $$ |  $$ |$$\$$\$$ $$ |\$$$$$$\  $$$$$$$$ |$$ |      ";
-Write-Host -ForegroundColor Red "   \$$  /   $$  __$$ |$$ |\_$$ |  $$ |   $$  /         $$  $$<   $$ |  $$ |$$ \$$$  $$ | \____$$\ $$  __$$ |$$ |      ";
-Write-Host -ForegroundColor Red "    $$ |    $$ |  $$ |$$ |  $$ |  $$ |  $$  /          $$ |\$$\  $$ |  $$ |$$ |\$  /$$ |$$\   $$ |$$ |  $$ |$$ |      ";
-Write-Host -ForegroundColor Red "    $$ |    $$ |  $$ |\$$$$$$  |$$$$$$\$$$$$$$$\       $$ | \$$\ \$$$$$$  |$$ | \_/ $$ |\$$$$$$  |$$ |  $$ |$$$$$$$$\ ";
-Write-Host -ForegroundColor Red "    \__|    \__|  \__| \______/ \______\________|      \__|  \__| \______/ \__|     \__| \______/ \__|  \__|\________|";
+
 Write-Host " ";
 Write-Host -ForegroundColor Blue "   Made By  / KENNEEDY <3
 Write-Host -ForegroundColor Red "HELLO STUPİD HACK";
