@@ -2,7 +2,7 @@ Write-Host "";
 Write-Host ""; 
 
 Write-Host " ";
-Write-Host -ForegroundColor Blue "   Made By  / KENNEEDY <3
+Write-Host -ForegroundColor Blue "
 Write-Host -ForegroundColor Red "HELLO STUPİD HACK";
 Write-Host "";
 
